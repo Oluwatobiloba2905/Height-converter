@@ -10,6 +10,8 @@
     text-align: center;
     margin-left: 450px;
     margin-top: 170px;
+    border-color: blue;
+    border: 20px;
 }
 
 .input-Value {
